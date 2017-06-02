@@ -1,1 +1,2 @@
-USE Android studio
+2017-캡스톤디자인-DAUMI
+SDK경로 수정후 사용
