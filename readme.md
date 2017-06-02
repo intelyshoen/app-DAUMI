@@ -1,2 +1,1 @@
-local sdk  
-setting..
+USE Android studio
